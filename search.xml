@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>记termux上传图片文件到github的过程</title>
+      <link href="posts/50593.html"/>
+      <url>posts/50593.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="termux简介"><a href="#termux简介" class="headerlink" title="termux简介"></a>termux简介</h1><p>   <strong>Termux是Android平台上的一个终端模拟器，它将众多Linux上运行的软件和工具近乎完美的移植到了手机端。不需要任何复杂的安装和配置过程，软件装好以后即会自动配置一个基本的运行环境，用以执行一些常见的 Linux 命令。最为关键的是，它还内置了功能健全的包管理工具，可以使用类似于Ubuntu系统的apt或pkg命令安装额外的软件包。</strong><br>    作为小白第一次使用termux从手机端上传图片到github仓库，看了一下百度教程方法千千万，可我实践下来却没有很好的效果，各个不同环节报错。最后结合各种fatal各种error终于成功了，记录一下过程。<br>1.在本地新建一个文件夹用于存放图片，把图片都移到新建的文件夹内</p><p><img src="./medias/detail/load.gif" data-original="https://cdn.jsdelivr.net/gh/pukaiting/photo@v1.22/21.jpg" alt="新建文件夹并移入相关文件"><br>打开termux cd到目标文件夹，或者直接粘贴路径到刚刚创建好的有图片的文件夹<br><img src="./medias/detail/load.gif" data-original="https://cdn.jsdelivr.net/gh/pukaiting/photo@1.23/22.jpg" alt="cd到文件夹或者粘贴路径"><br>2.执行命令:git init(创建本地git仓库)用来在当前项目的目录中生成本地的git管理库，我们可以发现在当前目录下多了一个.git的隐藏文件夹。<img src="./medias/detail/load.gif" data-original="https://cdn.jsdelivr.net/gh/pukaiting/photo@1.23/24.jpg" alt="看图"><br>3.执行git config –global user.name 你的用户名     git config –global user.email 你的邮箱@xx.com    用户名是你github的用户名，邮箱是绑定github的邮箱，运行不报错就行。</p><pre class="line-numbers language-none"><code class="language-none">git config --global user.name 你的用户名<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre> <pre class="line-numbers language-none"><code class="language-none">git config --global user.email 你的邮箱@xx.com<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>4.输入git add .命令，回车，将项目中所有的文件添加到仓库中。注意add后面，空格后还有一个 ==.== 如果想添加特定文件，把.换成对应的文件名就行了。<br>5.输入git commit -m “提交文件” 命令，双引号中的字符可以自定义随便修改。</p><pre class="line-numbers language-none"><code class="language-none">git commit -m "提交文件"<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p><img src="./medias/detail/load.gif" data-original="https://cdn.jsdelivr.net/gh/pukaiting/photo@1.23/25.jpg" alt="命令"><br>6.输入git remote add origin https://自己的仓库url地址</p><pre class="line-numbers language-none"><code class="language-none">git remote add origin https://自己的仓库url地址<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p><img src="./medias/detail/load.gif" data-original="https://cdn.jsdelivr.net/gh/pukaiting/photo@1.23/26.jpg" alt="图片"><br>7.输入git push -u origin master，将代码上传到githunb仓库中，等一会儿，会提示你输入github的账号和密码，输入完成稍等一会就上传完成了。(termux输密码的时候界面是没有任何显示的，输入密码之前切换输入法到英文后输入，输入完按回车)</p><pre class="line-numbers language-none"><code class="language-none">git push -u origin master<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>8.如果第七步出错，就接着输入git push <a href="https://github.com/%E4%BD%A0%E7%9A%84%E4%BB%93%E5%BA%93%E5%9C%B0%E5%9D%80">https://github.com/你的仓库地址</a> master:photo<br>格式为:git push 仓库地址 本地仓库分支名:远程仓库分支名，我的本地分支是master，远程仓库分支是在github自定义过的分支photo，所以我的提交为:git push <a href="https://github.com/pukaiting/photo.git">https://github.com/pukaiting/photo.git</a> master:photo，请参照自己的仓库分支名修改。</p><pre class="line-numbers language-none"><code class="language-none">git push https://github.com/你的仓库地址 master:photo<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p><img src="./medias/detail/load.gif" data-original="https://cdn.jsdelivr.net/gh/pukaiting/photo@1.23/27.jpg" alt="图片"></p><p>至此，放在文件夹里的图片都全部上传至github仓库。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 记录 </category>
+          
+          <category> 分享 </category>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> blog </tag>
+            
+            <tag> hexo </tag>
+            
+            <tag> github </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>请相信生活,相信自己</title>
       <link href="posts/980.html"/>
       <url>posts/980.html</url>
