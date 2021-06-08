@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.pukaiting.top/gallery/index.html</loc>
+    
+    <lastmod>2021-06-08</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.pukaiting.top/posts/50593.html</loc>
     
     <lastmod>2021-06-08</lastmod>
@@ -30,13 +37,6 @@
   </url>
   
   <url>
-    <loc>https://www.pukaiting.top/gallery/index.html</loc>
-    
-    <lastmod>2021-06-07</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.pukaiting.top/artitalk/index.html</loc>
     
     <lastmod>2021-06-07</lastmod>
@@ -51,14 +51,7 @@
   </url>
   
   <url>
-    <loc>https://www.pukaiting.top/rewardModal/index.html</loc>
-    
-    <lastmod>2021-06-06</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.pukaiting.top/time/index.html</loc>
+    <loc>https://www.pukaiting.top/journal/index.html</loc>
     
     <lastmod>2021-06-06</lastmod>
     
@@ -79,7 +72,7 @@
   </url>
   
   <url>
-    <loc>https://www.pukaiting.top/journal/index.html</loc>
+    <loc>https://www.pukaiting.top/time/index.html</loc>
     
     <lastmod>2021-06-06</lastmod>
     
@@ -93,7 +86,14 @@
   </url>
   
   <url>
-    <loc>https://www.pukaiting.top/about/index.html</loc>
+    <loc>https://www.pukaiting.top/rewardModal/index.html</loc>
+    
+    <lastmod>2021-06-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.pukaiting.top/404/index.html</loc>
     
     <lastmod>2021-06-06</lastmod>
     
@@ -128,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://www.pukaiting.top/404/index.html</loc>
+    <loc>https://www.pukaiting.top/about/index.html</loc>
     
     <lastmod>2021-06-06</lastmod>
     
