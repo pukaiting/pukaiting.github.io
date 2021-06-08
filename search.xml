@@ -15,10 +15,6 @@
           
           <category> 记录 </category>
           
-          <category> 分享 </category>
-          
-          <category> 教程 </category>
-          
       </categories>
       
       
@@ -29,6 +25,8 @@
             <tag> hexo </tag>
             
             <tag> github </tag>
+            
+            <tag> 教程 </tag>
             
         </tags>
       
