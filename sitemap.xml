@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.pukaiting.top/gallery/%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E7%A7%98%E5%AF%86/index.html</loc>
+    
+    <lastmod>2021-06-09</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.pukaiting.top/posts/50593.html</loc>
     
     <lastmod>2021-06-09</lastmod>
@@ -58,20 +65,6 @@
   </url>
   
   <url>
-    <loc>https://www.pukaiting.top/rewardModal/index.html</loc>
-    
-    <lastmod>2021-06-06</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.pukaiting.top/tags/index.html</loc>
-    
-    <lastmod>2021-06-06</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.pukaiting.top/journal/index.html</loc>
     
     <lastmod>2021-06-06</lastmod>
@@ -86,6 +79,20 @@
   </url>
   
   <url>
+    <loc>https://www.pukaiting.top/rewardModal/index.html</loc>
+    
+    <lastmod>2021-06-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.pukaiting.top/tags/index.html</loc>
+    
+    <lastmod>2021-06-06</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.pukaiting.top/time/index.html</loc>
     
     <lastmod>2021-06-06</lastmod>
@@ -93,7 +100,7 @@
   </url>
   
   <url>
-    <loc>https://www.pukaiting.top/404/index.html</loc>
+    <loc>https://www.pukaiting.top/about/index.html</loc>
     
     <lastmod>2021-06-06</lastmod>
     
@@ -114,7 +121,7 @@
   </url>
   
   <url>
-    <loc>https://www.pukaiting.top/about/index.html</loc>
+    <loc>https://www.pukaiting.top/friends/index.html</loc>
     
     <lastmod>2021-06-06</lastmod>
     
@@ -128,7 +135,7 @@
   </url>
   
   <url>
-    <loc>https://www.pukaiting.top/friends/index.html</loc>
+    <loc>https://www.pukaiting.top/404/index.html</loc>
     
     <lastmod>2021-06-06</lastmod>
     
@@ -142,6 +149,20 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://www.pukaiting.top/tags/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2021-06-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pukaiting.top/tags/%E8%AF%B7%E7%9B%B8%E4%BF%A1%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2021-06-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
   <url>
     <loc>https://www.pukaiting.top/tags/blog/</loc>
@@ -171,31 +192,17 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://www.pukaiting.top/tags/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2021-06-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.pukaiting.top/tags/%E8%AF%B7%E7%9B%B8%E4%BF%A1%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2021-06-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   
   <url>
-    <loc>https://www.pukaiting.top/categories/%E8%AE%B0%E5%BD%95/</loc>
+    <loc>https://www.pukaiting.top/categories/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2021-06-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.pukaiting.top/categories/%E9%9A%8F%E7%AC%94/</loc>
+    <loc>https://www.pukaiting.top/categories/%E8%AE%B0%E5%BD%95/</loc>
     <lastmod>2021-06-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
