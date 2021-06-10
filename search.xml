@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>个人记录贴，已加密，不准偷看</title>
+      <link href="posts/4312.html"/>
+      <url>posts/4312.html</url>
+      
+        <content type="html"><![CDATA[<p>个人记录</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> blog </tag>
+            
+            <tag> hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>记termux上传图片文件到github的过程</title>
       <link href="posts/50593.html"/>
       <url>posts/50593.html</url>
