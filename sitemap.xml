@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.pukaiting.top/posts/50593.html</loc>
+    
+    <lastmod>2021-06-10</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.pukaiting.top/posts/4312.html</loc>
     
     <lastmod>2021-06-10</lastmod>
@@ -24,13 +31,6 @@
   
   <url>
     <loc>https://www.pukaiting.top/gallery/%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E7%A7%98%E5%AF%86/index.html</loc>
-    
-    <lastmod>2021-06-09</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.pukaiting.top/posts/50593.html</loc>
     
     <lastmod>2021-06-09</lastmod>
     
@@ -79,7 +79,7 @@
   </url>
   
   <url>
-    <loc>https://www.pukaiting.top/journal/index.html</loc>
+    <loc>https://www.pukaiting.top/time/index.html</loc>
     
     <lastmod>2021-06-06</lastmod>
     
@@ -100,7 +100,14 @@
   </url>
   
   <url>
-    <loc>https://www.pukaiting.top/time/index.html</loc>
+    <loc>https://www.pukaiting.top/journal/index.html</loc>
+    
+    <lastmod>2021-06-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.pukaiting.top/about/index.html</loc>
     
     <lastmod>2021-06-06</lastmod>
     
@@ -114,7 +121,7 @@
   </url>
   
   <url>
-    <loc>https://www.pukaiting.top/about/index.html</loc>
+    <loc>https://www.pukaiting.top/contact/index.html</loc>
     
     <lastmod>2021-06-06</lastmod>
     
@@ -135,13 +142,6 @@
   </url>
   
   <url>
-    <loc>https://www.pukaiting.top/contact/index.html</loc>
-    
-    <lastmod>2021-06-06</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.pukaiting.top/friends/index.html</loc>
     
     <lastmod>2021-06-06</lastmod>
@@ -156,6 +156,20 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://www.pukaiting.top/tags/%E7%A7%81%E4%BA%BA/</loc>
+    <lastmod>2021-06-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pukaiting.top/tags/%E5%8A%A0%E5%AF%86/</loc>
+    <lastmod>2021-06-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
   <url>
     <loc>https://www.pukaiting.top/tags/blog/</loc>
