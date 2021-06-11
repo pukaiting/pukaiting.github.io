@@ -1,6 +1,6 @@
 var requests_url = 'https://hexo-circle-of-friends-api-five.vercel.app/api'; //api地址
 var orign_data = []; //api请求所得到的源数据
-var maxnumber = 20; //页面展示文章数量
+var maxnumber = 10; //页面展示文章数量
 var addnumber = 10; //每次加载增加的篇数
 var opentype = '_blank';  //'_blank'打开新标签,'_self'本窗口打开
 var nofollow = true; //禁止搜索引擎抓取
@@ -67,7 +67,6 @@ var data_handle = (nofollow,data, maxnumber) => {
   html_item += '<div class="moments_chart"><span class="moments_post_info_title">活跃友链数：</span><span class="moments_post_info_number">' + unique_live_link + ' 个</span><br><span class="moments_post_info_title">当前库存：</span><span class="moments_post_info_number">' + listlenth + ' 篇</span><br></div>';
   html_item += '<div class="moments_chart"><span class="moments_post_info_title">今日更新：</span><span class="moments_post_info_number">' + today_post + ' 篇</span><br><span class="moments_post_info_title">最近更新：</span><span class="moments_post_info_number">' + last_update_time + '</span><br></div>';
   html_item += '</div>';
-
   for (var month_item of datalist_slice) {
     html_item += '<h2>' + month_item[0] + '</h2>';
     for (var post_item of month_item[1]) {
